@@ -126,7 +126,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       const Text(
-                        '🚇 BKK Train Travel',
+                        'Intelligent Tour Guide',
                         style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold, color: Colors.blueAccent),
                       ),
                       const SizedBox(height: 8),
@@ -552,7 +552,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
-        title: const Text('BKK Train Travel 🚇', style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
+        title: const Text('Intelligent Tour Guide', style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
         backgroundColor: Colors.blueAccent,
         centerTitle: true,
         actions: [
