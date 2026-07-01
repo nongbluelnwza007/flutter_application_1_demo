@@ -87711,7 +87711,7 @@ this.aG()},
 J(a){return this.a.c}}
 A.Qc.prototype={
 J(a){var s=null
-return new A.A4(B.uP,"BKK Train Travel",A.uZ(s,A.aAu(B.af,s,s,B.bn),!0),!1,s)}}
+return new A.A4(B.uP,"Intelligent Tour Guide",A.uZ(s,A.aAu(B.af,s,s,B.bn),!0),!1,s)}}
 A.nh.prototype={}
 A.ho.prototype={}
 A.db.prototype={}
